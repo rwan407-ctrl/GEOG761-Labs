@@ -1,0 +1,7 @@
+lab4_data/
+lab5_data/
+patch_store/
+solar/
+solar_v2/
+*.pth
+__pycache__/
